@@ -28,7 +28,7 @@ My pipeline consisted of 5 steps as mentioned below:
 
 [//]: # (Image References)
 
-[image2]: ./writeupImages/01grayscale.png "Grayscale"
+[image2]: ./writeupImages/01grayscale.PNG "Grayscale"
 
 ![alt text][image2]
 
@@ -36,7 +36,7 @@ My pipeline consisted of 5 steps as mentioned below:
 
 [//]: # (Image References)
 
-[image3]: ./writeupImages/02canny.png "Canny"
+[image3]: ./writeupImages/02canny.PNG "Canny"
 
 ![alt text][image3]
 
@@ -44,7 +44,7 @@ My pipeline consisted of 5 steps as mentioned below:
 
 [//]: # (Image References)
 
-[image4]: ./writeupImages/03regionofinterest.png "Region of Interest"
+[image4]: ./writeupImages/03regionofinterest.PNG "Region of Interest"
 
 ![alt text][image4]
 
@@ -52,7 +52,7 @@ My pipeline consisted of 5 steps as mentioned below:
 
 [//]: # (Image References)
 
-[image5]: ./writeupImages/04hough_lines.png "hough lines"
+[image5]: ./writeupImages/04hough_lines.PNG "hough lines"
 
 ![alt text][image5]
 
@@ -60,7 +60,7 @@ My pipeline consisted of 5 steps as mentioned below:
 
 [//]: # (Image References)
 
-[image6]: ./writeupImages/05weightedimage.png "Weighted Image"
+[image6]: ./writeupImages/05weightedimage.PNG "Weighted Image"
 
 ![alt text][image6]
 
